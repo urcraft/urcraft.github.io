@@ -1,480 +1,121 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/publication/publications/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/claudio-pacchierotti/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/francesco-chinello/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2023-buzzwire-3/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/konstantinos-koumaditis/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/lisheng-kuang/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r-unnikrishnan/</loc>
-    <lastmod>2023-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/industrialskillstraining/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/haptics/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2022-buzzwire-2/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/scrumtrainingsimulator/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/virtualreality/</loc>
-    <lastmod>2023-05-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2021-litreview/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alin-blindu/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2021-industrialreview/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2021-buzzwire/</loc>
-    <lastmod>2021-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2020-scrum/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/pepe/</loc>
-    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/socialrobotics/</loc>
-    <lastmod>2019-10-26T22:47:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/computationalthinking/</loc>
-    <lastmod>2019-10-26T21:46:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/kappa/</loc>
-    <lastmod>2019-10-26T21:46:46+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/aptah/</loc>
-    <lastmod>2019-10-26T20:46:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/hms/</loc>
-    <lastmod>2019-10-26T19:45:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/seriousgames/</loc>
-    <lastmod>2019-10-26T19:45:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/barbending/</loc>
-    <lastmod>2019-10-26T18:43:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/tangibletoilet/</loc>
-    <lastmod>2019-10-26T17:03:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tui/</loc>
-    <lastmod>2019-10-26T17:03:19+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/abc/</loc>
-    <lastmod>2019-10-26T10:51:43+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/amba/</loc>
-    <lastmod>2019-10-26T10:51:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/carpentrytui/</loc>
-    <lastmod>2019-10-26T10:51:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/xrmotorcycle/</loc>
-    <lastmod>2019-10-26T10:49:21+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/amol-deshmukh/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2019-pepe/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/amol-2019-pepe/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/parameswari-anitha/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rao-r-bhavani/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/shanker-ramesh/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sooraj-k-babu/</loc>
-    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/6/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ajay-balakrishnan/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/akshay-nagarajan/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-unnikrishnan/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/rao-r.-bhavani/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/balakrishnan-2018-role/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/anitha-2018-scratching/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sooraj-krishna/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sreeram-kongeseri/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/srividya-sheshadri/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2018-tangible/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/babu-2018-virtual/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/others/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/alexander-muir/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/balu-m-menon/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/manikutty-gayathri/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/menon-mahima/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/mohan-t-harish/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/prathap-vishnu/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-nishok/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/s-shanker/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sangiorgio-marco/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sasi-deepu/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/menon-2017-serious/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/menon-2017-virtual/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/delmar-marshall/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/amritha-2016-design/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jose-2016-haptics/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/james-jose/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/k-namitha/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/md-sankaran-ravi/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/menon-m-mahima/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/n-amrita/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/natarajan-amritha/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2016-elephants/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/ranjith-2014-yourself/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/jose-2014-haptic/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nagarajan-akshay/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r-ranjith/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/unnikrishnan-2013-physiotherapy/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/akshay-2013-design/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/es-rahul/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karen-moawad/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/b-bhavani/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/bhavani-2010-vocational/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-  </url>
-  
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://urcraft.github.io/blog/hello-world</loc>
+    <lastmod>2026-02-26T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/blog/</loc>
+    <lastmod>2026-02-27T17:48:51.021Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/contact</loc>
+    <lastmod>2026-02-27T17:48:51.036Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/</loc>
+    <lastmod>2026-02-27T17:48:51.053Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/balance-rehabilitation</loc>
+    <lastmod>2019-10-26T05:21:37.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/fine-motor-skill-vr</loc>
+    <lastmod>2023-05-02T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/games-to-teach-programming</loc>
+    <lastmod>2019-10-26T14:15:36.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/</loc>
+    <lastmod>2026-02-27T17:48:51.124Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/kappa-tangible-ui</loc>
+    <lastmod>2019-10-26T16:16:46.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/pepe-social-robot</loc>
+    <lastmod>2019-10-26T17:17:17.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/rebar-bending</loc>
+    <lastmod>2019-10-26T13:13:43.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/scrum-simulator</loc>
+    <lastmod>2023-05-02T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/skill-training-simulators</loc>
+    <lastmod>2019-10-26T15:16:32.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/tangible-carpentry</loc>
+    <lastmod>2019-10-26T05:21:21.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/tangible-toilet-survey</loc>
+    <lastmod>2019-10-26T11:33:19.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/virtual-motorcycle</loc>
+    <lastmod>2019-10-26T05:19:21.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/waste-sorting-game</loc>
+    <lastmod>2019-10-26T05:21:43.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/akshay-2013-design</loc>
+    <lastmod>2012-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/amol-2019-pepe</loc>
+    <lastmod>2019-10-14T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/amritha-2016-design</loc>
+    <lastmod>2015-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/anitha-2018-scratching</loc>
+    <lastmod>2017-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/babu-2018-virtual</loc>
+    <lastmod>2017-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/balakrishnan-2018-role</loc>
+    <lastmod>2017-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/bhavani-2010-vocational</loc>
+    <lastmod>2009-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/</loc>
+    <lastmod>2026-02-27T17:48:51.244Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/jose-2014-haptic</loc>
+    <lastmod>2013-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/jose-2016-haptics</loc>
+    <lastmod>2015-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/menon-2017-serious</loc>
+    <lastmod>2016-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/menon-2017-virtual</loc>
+    <lastmod>2016-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/ranjith-2014-yourself</loc>
+    <lastmod>2013-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2013-physiotherapy</loc>
+    <lastmod>2012-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2016-elephants</loc>
+    <lastmod>2015-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2018-tangible</loc>
+    <lastmod>2017-12-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2019-pepe</loc>
+    <lastmod>2019-10-14T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2020-scrum</loc>
+    <lastmod>2020-10-31T23:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2021-buzzwire</loc>
+    <lastmod>2021-05-05T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2021-industrialreview</loc>
+    <lastmod>2021-05-05T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2021-litreview</loc>
+    <lastmod>2021-07-30T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</loc>
+    <lastmod>2023-05-02T22:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</loc>
+    <lastmod>2023-09-24T22:00:00.000Z</lastmod>
+  </url></urlset>

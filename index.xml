@@ -1,48 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title></title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description></description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Unnikrishnan R - 2024</copyright><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/img/icon-192.png</url>
-      <title></title>
-      <link>/</link>
-    </image>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/project/</link>
-      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
-      <guid>/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/talk/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/talk/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Unnikrishnan Radhakrishnan</title>
+      <link>https://urcraft.github.io</link>
+      <description>Last 10 notes on Unnikrishnan Radhakrishnan</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Publications</title>
+    <link>https://urcraft.github.io/publications/</link>
+    <guid>https://urcraft.github.io/publications/</guid>
+    <description><![CDATA[ Research papers and publications ]]></description>
+    <pubDate>Fri, 27 Feb 2026 17:48:51 GMT</pubDate>
+  </item><item>
+    <title>Projects</title>
+    <link>https://urcraft.github.io/projects/</link>
+    <guid>https://urcraft.github.io/projects/</guid>
+    <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
+    <pubDate>Fri, 27 Feb 2026 17:48:51 GMT</pubDate>
+  </item><item>
+    <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
+    <link>https://urcraft.github.io/</link>
+    <guid>https://urcraft.github.io/</guid>
+    <description><![CDATA[ Software Engineer - VR, Haptics, AI, Educational Technologies ]]></description>
+    <pubDate>Fri, 27 Feb 2026 17:48:51 GMT</pubDate>
+  </item><item>
+    <title>Contact</title>
+    <link>https://urcraft.github.io/contact</link>
+    <guid>https://urcraft.github.io/contact</guid>
+    <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere LinkedIn Google Scholar GitHub . ]]></description>
+    <pubDate>Fri, 27 Feb 2026 17:48:51 GMT</pubDate>
+  </item><item>
+    <title>Blog</title>
+    <link>https://urcraft.github.io/blog/</link>
+    <guid>https://urcraft.github.io/blog/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Fri, 27 Feb 2026 17:48:51 GMT</pubDate>
+  </item><item>
+    <title>Hello World</title>
+    <link>https://urcraft.github.io/blog/hello-world</link>
+    <guid>https://urcraft.github.io/blog/hello-world</guid>
+    <description><![CDATA[ Welcome to my blog ]]></description>
+    <pubDate>Thu, 26 Feb 2026 23:00:00 GMT</pubDate>
+  </item><item>
+    <title>Haptic Feedback, Performance and Arousal: A Comparison Study in an Immersive VR Motor Skill Training Task</title>
+    <link>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</link>
+    <guid>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</guid>
+    <description><![CDATA[ This paper investigates the relationship between fine motor skill training in VR, haptic feedback, and physiological arousal. To do so, we present the design and development of a motor skill task (buz ]]></description>
+    <pubDate>Sun, 24 Sep 2023 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Fine Motor Skill Training in VR</title>
+    <link>https://urcraft.github.io/projects/fine-motor-skill-vr</link>
+    <guid>https://urcraft.github.io/projects/fine-motor-skill-vr</guid>
+    <description><![CDATA[ As part of my PhD dissertation, I explored the use of immersive virtual reality (VR) for fine motor skills training by creating a test bed based on the buzz-wire game. ]]></description>
+    <pubDate>Tue, 02 May 2023 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Virtual Scrum Sprint Simulator</title>
+    <link>https://urcraft.github.io/projects/scrum-simulator</link>
+    <guid>https://urcraft.github.io/projects/scrum-simulator</guid>
+    <description><![CDATA[ The Scrum Simulator (ScrumSim) is an interactive multiplayer VR simulation that places the participant in a virtual collaboration environment, in order to train them in the use of the Scrum project management methodology. ]]></description>
+    <pubDate>Tue, 02 May 2023 22:00:00 GMT</pubDate>
+  </item><item>
+    <title>Investigating the effectiveness of immersive VR skill training and its link to physiological arousal</title>
+    <link>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</link>
+    <guid>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</guid>
+    <description><![CDATA[ This paper details the motivations, design, and analysis of a study using a fine motor skill training task in both VR and physical conditions. The objective of this between-subjects study was to (a) i ]]></description>
+    <pubDate>Tue, 02 May 2023 22:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
