@@ -10,31 +10,37 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Thu, 19 Mar 2026 09:34:21 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:31:25 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Thu, 19 Mar 2026 09:34:20 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:31:24 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor | Applied AI & Immersive Technologies (VR/XR) for Industry ]]></description>
-    <pubDate>Thu, 19 Mar 2026 09:34:20 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:31:24 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Thu, 19 Mar 2026 09:34:20 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:31:24 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 19 Mar 2026 09:34:20 GMT</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:31:24 GMT</pubDate>
+  </item><item>
+    <title>My Terminal Theming Setup</title>
+    <link>https://urcraft.github.io/blog/Terminal-Theming-Setup</link>
+    <guid>https://urcraft.github.io/blog/Terminal-Theming-Setup</guid>
+    <description><![CDATA[ This guide will walk you through transforming a default terminal into a highly customized, visually appealing, and productive environment using **Oh My Posh**, **Nerd Fonts**, and intelligent file listing tools. ]]></description>
+    <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Hello World</title>
     <link>https://urcraft.github.io/blog/hello-world</link>
@@ -42,29 +48,23 @@
     <description><![CDATA[ Welcome to my blog ]]></description>
     <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Haptic Feedback, Performance and Arousal: A Comparison Study in an Immersive VR Motor Skill Training Task</title>
-    <link>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</link>
-    <guid>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</guid>
-    <description><![CDATA[ This paper investigates the relationship between fine motor skill training in VR, haptic feedback, and physiological arousal. To do so, we present the design and development of a motor skill task (buz ]]></description>
-    <pubDate>Mon, 25 Sep 2023 00:00:00 GMT</pubDate>
+    <title>Virtual reality, working memory and sensory fidelity: A study of 3D avatars versus 2D video interfaces</title>
+    <link>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</link>
+    <guid>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</guid>
+    <description><![CDATA[ Much remains unknown about how virtual reality (VR) environments affect working memory (WM), i.e. the retention of a small amount of information in a readily accessible form. While WM is associated with one's ]]></description>
+    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Fine Motor Skill Training in VR</title>
-    <link>https://urcraft.github.io/projects/fine-motor-skill-vr</link>
-    <guid>https://urcraft.github.io/projects/fine-motor-skill-vr</guid>
-    <description><![CDATA[ As part of my PhD dissertation, I explored the use of immersive virtual reality (VR) for fine motor skills training by creating a test bed based on the buzz-wire game. ]]></description>
-    <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+    <title>Generative AI for Analyzing Participatory Rural Appraisal Data: An Exploratory Case Study in Gender Research</title>
+    <link>https://urcraft.github.io/publications/sheshadri-2025-genai</link>
+    <guid>https://urcraft.github.io/publications/sheshadri-2025-genai</guid>
+    <description><![CDATA[ This study explores the novel application of Generative Artificial Intelligence (GenAI) in analyzing unstructured visual data generated through Participatory Rural Appraisal (PRA), specifically focusing on women's ]]></description>
+    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Virtual Scrum Sprint Simulator</title>
-    <link>https://urcraft.github.io/projects/scrum-simulator</link>
-    <guid>https://urcraft.github.io/projects/scrum-simulator</guid>
-    <description><![CDATA[ The Scrum Simulator (ScrumSim) is an interactive multiplayer VR simulation that places the participant in a virtual collaboration environment, in order to train them in the use of the Scrum project management methodology. ]]></description>
-    <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Investigating the effectiveness of immersive VR skill training and its link to physiological arousal</title>
-    <link>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</link>
-    <guid>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</guid>
-    <description><![CDATA[ This paper details the motivations, design, and analysis of a study using a fine motor skill training task in both VR and physical conditions. The objective of this between-subjects study was to (a) i ]]></description>
-    <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+    <title>TacitFlow</title>
+    <link>https://urcraft.github.io/projects/tacitflow</link>
+    <guid>https://urcraft.github.io/projects/tacitflow</guid>
+    <description><![CDATA[ TacitFlow is a conversational BPMN diagram generator that captures tacit, experience-based process knowledge from SME shop floors and converts it into standards-compliant Business Process Model and Notation (BPMN) 2.0 diagrams. ]]></description>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

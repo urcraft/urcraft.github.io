@@ -1,15 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://urcraft.github.io/blog/Terminal-Theming-Setup</loc>
+    <lastmod>2026-03-26T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://urcraft.github.io/blog/hello-world</loc>
     <lastmod>2026-02-27T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/blog/</loc>
-    <lastmod>2026-03-19T09:34:20.826Z</lastmod>
+    <lastmod>2026-03-26T17:31:24.802Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/contact</loc>
-    <lastmod>2026-03-19T09:34:20.844Z</lastmod>
+    <lastmod>2026-03-26T17:31:24.809Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/</loc>
-    <lastmod>2026-03-19T09:34:20.865Z</lastmod>
+    <lastmod>2026-03-26T17:31:24.827Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/projects/balance-rehabilitation</loc>
     <lastmod>2019-10-26T05:21:37.000Z</lastmod>
@@ -21,7 +24,7 @@
     <lastmod>2019-10-26T14:15:36.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/projects/</loc>
-    <lastmod>2026-03-19T09:34:20.914Z</lastmod>
+    <lastmod>2026-03-26T17:31:24.902Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/projects/kappa-tangible-ui</loc>
     <lastmod>2019-10-26T16:16:46.000Z</lastmod>
@@ -37,6 +40,9 @@
   </url><url>
     <loc>https://urcraft.github.io/projects/skill-training-simulators</loc>
     <lastmod>2019-10-26T15:16:32.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/projects/tacitflow</loc>
+    <lastmod>2025-01-01T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/projects/tangible-carpentry</loc>
     <lastmod>2019-10-26T05:21:21.000Z</lastmod>
@@ -65,6 +71,9 @@
     <loc>https://urcraft.github.io/publications/babu-2018-virtual</loc>
     <lastmod>2018-01-01T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://urcraft.github.io/publications/babu-2019-kappa</loc>
+    <lastmod>2019-12-01T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://urcraft.github.io/publications/balakrishnan-2018-role</loc>
     <lastmod>2018-01-01T00:00:00.000Z</lastmod>
   </url><url>
@@ -72,13 +81,25 @@
     <lastmod>2010-01-01T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/publications/</loc>
-    <lastmod>2026-03-19T09:34:21.029Z</lastmod>
+    <lastmod>2026-03-26T17:31:25.073Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/publications/jose-2014-haptic</loc>
     <lastmod>2014-01-01T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/publications/jose-2016-haptics</loc>
     <lastmod>2016-01-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</loc>
+    <lastmod>2026-01-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/leiva-2025-mucho</loc>
+    <lastmod>2025-01-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/lui-2023-adaptive-vr</loc>
+    <lastmod>2023-03-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/lui-2025-adaptive</loc>
+    <lastmod>2025-01-01T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/publications/menon-2017-serious</loc>
     <lastmod>2017-01-01T00:00:00.000Z</lastmod>
@@ -88,6 +109,9 @@
   </url><url>
     <loc>https://urcraft.github.io/publications/ranjith-2014-yourself</loc>
     <lastmod>2014-01-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/sheshadri-2025-genai</loc>
+    <lastmod>2025-02-01T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://urcraft.github.io/publications/unnikrishnan-2013-physiotherapy</loc>
     <lastmod>2013-01-01T00:00:00.000Z</lastmod>
@@ -116,6 +140,18 @@
     <loc>https://urcraft.github.io/publications/unnikrishnan-2022-buzzwire-2</loc>
     <lastmod>2023-05-03T00:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2022-eurohaptics</loc>
+    <lastmod>2022-05-22T00:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://urcraft.github.io/publications/unnikrishnan-2023-buzzwire-3</loc>
     <lastmod>2023-09-25T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2023-thesis</loc>
+    <lastmod>2023-09-08T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/unnikrishnan-2025-bpmn</loc>
+    <lastmod>2025-01-01T00:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://urcraft.github.io/publications/visescu-2022-scrumsim</loc>
+    <lastmod>2022-10-08T00:00:00.000Z</lastmod>
   </url></urlset>
