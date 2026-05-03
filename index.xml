@@ -10,43 +10,37 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Sun, 03 May 2026 13:02:35 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 13:02:46 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Sun, 03 May 2026 13:02:35 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 13:02:46 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor | Applied AI & Immersive Technologies (VR/XR) for Industry ]]></description>
-    <pubDate>Sun, 03 May 2026 13:02:35 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 13:02:46 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Sun, 03 May 2026 13:02:35 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 13:02:46 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 03 May 2026 13:02:35 GMT</pubDate>
+    <pubDate>Sun, 03 May 2026 13:02:46 GMT</pubDate>
   </item><item>
     <title>My Terminal Theming Setup</title>
     <link>https://urcraft.github.io/blog/Terminal-Theming-Setup</link>
     <guid>https://urcraft.github.io/blog/Terminal-Theming-Setup</guid>
     <description><![CDATA[ This guide will walk you through transforming a default terminal into a highly customized, visually appealing, and productive environment using **Oh My Posh**, **Nerd Fonts**, and intelligent file listing tools. ]]></description>
     <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Hello World</title>
-    <link>https://urcraft.github.io/blog/hello-world</link>
-    <guid>https://urcraft.github.io/blog/hello-world</guid>
-    <description><![CDATA[ Welcome to my blog ]]></description>
-    <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Virtual reality, working memory and sensory fidelity: A study of 3D avatars versus 2D video interfaces</title>
     <link>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</link>
@@ -64,6 +58,12 @@
     <link>https://urcraft.github.io/projects/tacitflow</link>
     <guid>https://urcraft.github.io/projects/tacitflow</guid>
     <description><![CDATA[ TacitFlow is a conversational BPMN diagram generator that captures tacit, experience-based process knowledge from SME shop floors and converts it into standards-compliant Business Process Model and Notation (BPMN) 2.0 diagrams. ]]></description>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Mucho: A Timeline-Based Immersive Tool for Prototyping Interactive Multimodal XR Experiences</title>
+    <link>https://urcraft.github.io/publications/leiva-2025-mucho</link>
+    <guid>https://urcraft.github.io/publications/leiva-2025-mucho</guid>
+    <description><![CDATA[ Prototyping multimodal interaction in XR (Augmented/Virtual Reality) is challenging for non-technical designers. Moreover, existing XR prototyping tools do not support concurrent multimodal interaction and lack ]]></description>
     <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
