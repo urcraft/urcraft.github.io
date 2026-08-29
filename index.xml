@@ -10,31 +10,49 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Sat, 01 Aug 2026 20:29:56 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Sat, 01 Aug 2026 20:29:55 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor | Applied AI & Immersive Technologies (VR/XR) for Industry ]]></description>
-    <pubDate>Sat, 01 Aug 2026 20:29:55 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Sat, 01 Aug 2026 20:29:55 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 01 Aug 2026 20:29:55 GMT</pubDate>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
+  </item><item>
+    <title>We are legion - initial thoughts</title>
+    <link>https://urcraft.github.io/blog/We-are-legion---initial-thoughts</link>
+    <guid>https://urcraft.github.io/blog/We-are-legion---initial-thoughts</guid>
+    <description><![CDATA[ This is turning into a fun read. ]]></description>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
+  </item><item>
+    <title>AI slop meets technical manuals</title>
+    <link>https://urcraft.github.io/blog/AI-slop-meets-technical-manuals</link>
+    <guid>https://urcraft.github.io/blog/AI-slop-meets-technical-manuals</guid>
+    <description><![CDATA[ I was expecting sooner than later for technical manuals to be generated via AI and some of it to be in the “AI slop” category because no one bothered to verify the AI output. ]]></description>
+    <pubDate>Sat, 29 Aug 2026 12:41:04 GMT</pubDate>
+  </item><item>
+    <title>Initial Experiments with OpenClaw Variants - Nanobot and Picoclaw</title>
+    <link>https://urcraft.github.io/blog/initial_experiments_openclaw</link>
+    <guid>https://urcraft.github.io/blog/initial_experiments_openclaw</guid>
+    <description><![CDATA[ Running OpenClaw as a Telegram bot on Android via Termux, and asking it to design a 3D-printable Raspberry Pi 4 enclosure end to end. ]]></description>
+    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Virtual reality, working memory and sensory fidelity: A study of 3D avatars versus 2D video interfaces</title>
     <link>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</link>
@@ -47,24 +65,6 @@
     <guid>https://urcraft.github.io/publications/sheshadri-2025-genai</guid>
     <description><![CDATA[ This study explores the novel application of Generative Artificial Intelligence (GenAI) in analyzing unstructured visual data generated through Participatory Rural Appraisal (PRA), specifically focusing on women's ]]></description>
     <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>TacitFlow</title>
-    <link>https://urcraft.github.io/projects/tacitflow</link>
-    <guid>https://urcraft.github.io/projects/tacitflow</guid>
-    <description><![CDATA[ TacitFlow is a conversational BPMN diagram generator that captures tacit, experience-based process knowledge from SME shop floors and converts it into standards-compliant Business Process Model and Notation (BPMN) 2.0 diagrams. ]]></description>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Mucho: A Timeline-Based Immersive Tool for Prototyping Interactive Multimodal XR Experiences</title>
-    <link>https://urcraft.github.io/publications/leiva-2025-mucho</link>
-    <guid>https://urcraft.github.io/publications/leiva-2025-mucho</guid>
-    <description><![CDATA[ Prototyping multimodal interaction in XR (Augmented/Virtual Reality) is challenging for non-technical designers. Moreover, existing XR prototyping tools do not support concurrent multimodal interaction and lack ]]></description>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>The efficacy of adaptive training in immersive virtual reality for a fine motor skill task</title>
-    <link>https://urcraft.github.io/publications/lui-2025-adaptive</link>
-    <guid>https://urcraft.github.io/publications/lui-2025-adaptive</guid>
-    <description><![CDATA[ This paper investigates whether continuously adapting training content and difficulty to the individual trainee enhances learning outcomes. Using a preregistered, between-subjects experiment, 130 participants were ]]></description>
-    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
