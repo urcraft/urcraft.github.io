@@ -10,43 +10,37 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <pubDate>Tue, 01 Sep 2026 19:29:17 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <pubDate>Tue, 01 Sep 2026 19:29:16 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor | Applied AI & Immersive Technologies (VR/XR) for Industry ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <pubDate>Tue, 01 Sep 2026 19:29:16 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <pubDate>Tue, 01 Sep 2026 19:29:16 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <pubDate>Tue, 01 Sep 2026 19:29:16 GMT</pubDate>
   </item><item>
-    <title>We are legion - initial thoughts</title>
-    <link>https://urcraft.github.io/blog/We-are-legion---initial-thoughts</link>
-    <guid>https://urcraft.github.io/blog/We-are-legion---initial-thoughts</guid>
-    <description><![CDATA[ This is turning into a fun read. ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
-  </item><item>
-    <title>AI slop meets technical manuals</title>
+    <title>AI Slop Meets Technical Manuals</title>
     <link>https://urcraft.github.io/blog/AI-slop-meets-technical-manuals</link>
     <guid>https://urcraft.github.io/blog/AI-slop-meets-technical-manuals</guid>
-    <description><![CDATA[ I was expecting sooner than later for technical manuals to be generated via AI and some of it to be in the “AI slop” category because no one bothered to verify the AI output. ]]></description>
-    <pubDate>Tue, 01 Sep 2026 19:20:58 GMT</pubDate>
+    <description><![CDATA[ An unrendered Mermaid flowchart shipped inside the printed manual of a non-stick pan, and what happens when you hand the same diagram to an image model. ]]></description>
+    <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Initial Experiments with OpenClaw Variants - Nanobot and Picoclaw</title>
     <link>https://urcraft.github.io/blog/initial_experiments_openclaw</link>
@@ -65,6 +59,12 @@
     <guid>https://urcraft.github.io/publications/sheshadri-2025-genai</guid>
     <description><![CDATA[ This study explores the novel application of Generative Artificial Intelligence (GenAI) in analyzing unstructured visual data generated through Participatory Rural Appraisal (PRA), specifically focusing on women's ]]></description>
     <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>TacitFlow</title>
+    <link>https://urcraft.github.io/projects/tacitflow</link>
+    <guid>https://urcraft.github.io/projects/tacitflow</guid>
+    <description><![CDATA[ TacitFlow is a conversational BPMN diagram generator that captures tacit, experience-based process knowledge from SME shop floors and converts it into standards-compliant Business Process Model and Notation (BPMN) 2.0 diagrams. ]]></description>
+    <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
