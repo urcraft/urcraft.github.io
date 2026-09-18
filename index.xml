@@ -10,31 +10,37 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Fri, 18 Sep 2026 14:51:10 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Fri, 18 Sep 2026 14:51:10 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
+  </item><item>
+    <title>Personal Projects</title>
+    <link>https://urcraft.github.io/personal/</link>
+    <guid>https://urcraft.github.io/personal/</guid>
+    <description><![CDATA[ Small tools, interactive experiments, and things I build out of curiosity. ]]></description>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor at Aarhus University · Applied AI & Immersive Technologies ]]></description>
-    <pubDate>Fri, 18 Sep 2026 14:51:10 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere AU academic profile LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Fri, 18 Sep 2026 14:51:10 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Fri, 18 Sep 2026 14:51:10 GMT</pubDate>
+    <pubDate>Fri, 18 Sep 2026 16:47:23 GMT</pubDate>
   </item><item>
     <title>Baby-driven development</title>
     <link>https://urcraft.github.io/blog/baby-driven-development</link>
@@ -48,23 +54,17 @@
     <description><![CDATA[ An unrendered Mermaid flowchart shipped inside the printed manual of a non-stick pan, and what happens when you hand the same diagram to an image model. ]]></description>
     <pubDate>Sat, 29 Aug 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Initial Experiments with OpenClaw Variants - Nanobot and Picoclaw</title>
-    <link>https://urcraft.github.io/blog/initial_experiments_openclaw</link>
-    <guid>https://urcraft.github.io/blog/initial_experiments_openclaw</guid>
-    <description><![CDATA[ Running OpenClaw as a Telegram bot on Android via Termux, and asking it to design a 3D-printable Raspberry Pi 4 enclosure end to end. ]]></description>
-    <pubDate>Mon, 06 Apr 2026 00:00:00 GMT</pubDate>
+    <title>Ship in a Bottle</title>
+    <link>https://urcraft.github.io/personal/ship-in-a-bottle</link>
+    <guid>https://urcraft.github.io/personal/ship-in-a-bottle</guid>
+    <description><![CDATA[ An interactive miniature ocean with simulated water, refracting glass, and procedural sound. ]]></description>
+    <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Virtual reality, working memory and sensory fidelity: A study of 3D avatars versus 2D video interfaces</title>
-    <link>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</link>
-    <guid>https://urcraft.github.io/publications/koumaditis-2026-workingmemory</guid>
-    <description><![CDATA[ Much remains unknown about how virtual reality (VR) environments affect working memory (WM), i.e. the retention of a small amount of information in a readily accessible form. While WM is associated with one's ]]></description>
-    <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Generative AI for Analyzing Participatory Rural Appraisal Data: An Exploratory Case Study in Gender Research</title>
-    <link>https://urcraft.github.io/publications/sheshadri-2025-genai</link>
-    <guid>https://urcraft.github.io/publications/sheshadri-2025-genai</guid>
-    <description><![CDATA[ This study explores the novel application of Generative Artificial Intelligence (GenAI) in analyzing unstructured visual data generated through Participatory Rural Appraisal (PRA), specifically focusing on women's ]]></description>
-    <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+    <title>The Box That Fights</title>
+    <link>https://urcraft.github.io/personal/the-box-that-fights</link>
+    <guid>https://urcraft.github.io/personal/the-box-that-fights</guid>
+    <description><![CDATA[ A sourced visual timeline of publicly reported containerised weapon systems. ]]></description>
+    <pubDate>Sun, 05 Jul 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
