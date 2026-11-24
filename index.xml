@@ -10,37 +10,43 @@
     <link>https://urcraft.github.io/publications/</link>
     <guid>https://urcraft.github.io/publications/</guid>
     <description><![CDATA[ Research papers and publications ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Projects</title>
     <link>https://urcraft.github.io/projects/</link>
     <guid>https://urcraft.github.io/projects/</guid>
     <description><![CDATA[ Selected projects in VR, haptics, and education ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Personal Projects</title>
     <link>https://urcraft.github.io/personal/</link>
     <guid>https://urcraft.github.io/personal/</guid>
     <description><![CDATA[ Small tools, interactive experiments, and things I build out of curiosity. ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Unnikrishnan &quot;Unni&quot; Radhakrishnan</title>
     <link>https://urcraft.github.io/</link>
     <guid>https://urcraft.github.io/</guid>
     <description><![CDATA[ Assistant Professor at Aarhus University · Applied AI & Immersive Technologies ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Contact</title>
     <link>https://urcraft.github.io/contact</link>
     <guid>https://urcraft.github.io/contact</guid>
     <description><![CDATA[ Get in Touch Name Email Message Send Find me elsewhere AU academic profile LinkedIn Google Scholar GitHub . ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
+  </item><item>
+    <title>Message sent</title>
+    <link>https://urcraft.github.io/contact-thanks</link>
+    <guid>https://urcraft.github.io/contact-thanks</guid>
+    <description><![CDATA[ Thanks for getting in touch. Your message has arrived and I’ll get back to you soon. Back to the home page. ]]></description>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Blog</title>
     <link>https://urcraft.github.io/blog/</link>
     <guid>https://urcraft.github.io/blog/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Mon, 16 Nov 2026 21:46:37 GMT</pubDate>
+    <pubDate>Tue, 24 Nov 2026 09:49:08 GMT</pubDate>
   </item><item>
     <title>Baby-driven development</title>
     <link>https://urcraft.github.io/blog/baby-driven-development</link>
@@ -59,12 +65,6 @@
     <guid>https://urcraft.github.io/personal/ship-in-a-bottle</guid>
     <description><![CDATA[ An interactive miniature ocean with simulated water, refracting glass, and procedural sound. ]]></description>
     <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Photo Puzzle</title>
-    <link>https://urcraft.github.io/personal/photopuzzlemaker</link>
-    <guid>https://urcraft.github.io/personal/photopuzzlemaker</guid>
-    <description><![CDATA[ Turn a favourite photo into a jigsaw puzzle and piece it back together in the browser. ]]></description>
-    <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
